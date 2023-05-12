@@ -1,0 +1,1 @@
+export type TMathFunction = (x: number) => number;
